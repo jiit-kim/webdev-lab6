@@ -1,0 +1,12 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "description": "IIT Web Dev Lab6",
+  "main": "index.js",
+  "scripts": {
+    "start:local": "liver-server",
+    "test": "npm test"
+  },
+  "author": "Jongho Kim",
+  "license": "ISC"
+}
